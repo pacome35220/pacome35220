@@ -7,8 +7,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pacome.francon)
 
-<br />
-
 Full-Stack Engineer at MaPUI Labs since May 2020, after 3 years of (very) intense programming learning at Epitech.
 
 I want to discover South America, especially Colombia.
