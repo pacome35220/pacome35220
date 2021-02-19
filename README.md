@@ -1,7 +1,13 @@
 ### Hi 👋, I'm Pacôme
 #### I am Full-Stack Engineer at MaPUI Labs (Node.js, Typescript, DevOps, Angular)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pacome35220)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pacome-francon/)  
+<a href="https://www.linkedin.com/in/pacome-francon/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=pacome.francon)
+
+<br />
 
 Full-Stack Engineer at MaPUI Labs since May 2020, after 3 years of (very) intense programming learning at Epitech.
 
