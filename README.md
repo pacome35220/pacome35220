@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Pacôme
+### Hi 👋, my name is Pacôme
 #### I am Full-Stack Engineer at MaPUI Labs (Node.js, Typescript, DevOps, Angular)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pacome35220)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pacome-francon/)  
